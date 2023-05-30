@@ -1,0 +1,22 @@
+1.go to settings.
+2.under access please select ssh and gpg
+3. please click on generate ssh key.
+4. select 5th option generating new ssh key and adding it to ssh-agen.
+5. open git bash.
+   $ ssh-keygen -t ed25519 -C "your_email@example.com"
+paste about command 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+link:   https://github.com/darshanaws08/Demo 
